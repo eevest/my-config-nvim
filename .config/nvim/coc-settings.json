@@ -1,0 +1,23 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "php",
+    "html",
+    "css",
+    "python"
+  ],
+  "html.enable": true,
+  "html.format.enable": true,
+  "html.filetypes": ["html", "htmldjango"],
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.pythonPath": "python3",
+  "python.jediEnabled": false,
+  "suggest.timeout": 5000,
+  "snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/utils/snips"]
+}
